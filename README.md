@@ -2,6 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdainjungdev&count_bg=%23F7D5D1&title_bg=%23968389&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+## About me...
+- I love bubble tea
+- I like making things look nice
+
 
 ## Skills
 
@@ -15,7 +19,6 @@
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dainjungdev@gmail.com)](mailto:dainjungdev@gmail.com)
-
 
 <!--
 **dainjungdev/dainjungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
